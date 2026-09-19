@@ -1,0 +1,156 @@
+{
+  "山のピザ屋　ぷらてりーあ": {
+    "image": "https://www.ohk.co.jp/cgi-image/5957/5957_KGdJEMnrRqbkgGFlWayAyIdgenfTKsDmSnSSmRCLpaXcDoWwkt.jpg",
+    "source": "https://www.ohk.co.jp/data/4534/pages/",
+    "credit": "OHK 岡山放送",
+    "alt": "山のピザ屋　ぷらてりーあの写真",
+    "src": "assets/photos/place-01.jpg"
+  },
+  "湯原ヨーグルト": {
+    "image": "https://yubara-yogurt.com/images/lineup.jpg",
+    "source": "https://yubara-yogurt.com/",
+    "credit": "湯原ヨーグルト 公式サイト",
+    "alt": "湯原ヨーグルトの写真",
+    "src": "assets/photos/place-02.jpg"
+  },
+  "久本精肉店": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3237/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3237",
+    "credit": "真庭観光WEB",
+    "alt": "久本精肉店の写真",
+    "src": "assets/photos/place-03.jpg"
+  },
+  "ほわっふる": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3720/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3720",
+    "credit": "真庭観光WEB",
+    "alt": "ほわっふるの写真",
+    "src": "assets/photos/place-04.jpg"
+  },
+  "湯原温泉ミュージアム": {
+    "image": "https://www.maniwa.or.jp/upload/spot/1497/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=1497",
+    "credit": "真庭観光WEB",
+    "alt": "湯原温泉ミュージアムの写真",
+    "src": "assets/photos/place-05.jpg"
+  },
+  "はんざきセンター": {
+    "image": "https://www.maniwa.or.jp/upload/spot/2998/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=2998",
+    "credit": "真庭観光WEB",
+    "alt": "はんざきセンターの写真",
+    "src": "assets/photos/place-06.jpg"
+  },
+  "はんざきアート広場": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3734/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3734",
+    "credit": "真庭観光WEB",
+    "alt": "はんざきアート広場のはんざき足湯",
+    "src": "assets/photos/place-07.jpg"
+  },
+  "湯原ダム": {
+    "image": "https://www.pref.okayama.jp/uploaded/life/4163_3464555_img.jpg",
+    "source": "https://www.pref.okayama.jp/page/detail-4163.html",
+    "credit": "岡山県 湯原ダム管理事務所",
+    "alt": "湯原ダムの写真",
+    "src": "assets/photos/place-08.jpg"
+  },
+  "下湯原温泉　ひまわり館": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3312/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3312",
+    "credit": "????WEB",
+    "alt": "下湯原温泉　ひまわり館の写真",
+    "src": "assets/photos/place-09.jpg"
+  },
+  "広見酒店": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3291/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3291",
+    "credit": "真庭観光WEB",
+    "alt": "広見酒店の写真",
+    "src": "assets/photos/place-10.jpg"
+  },
+  "ゆばらの宿　米屋": {
+    "image": "https://www.komeya.co.jp/wp-content/themes/komeya/img/index/mv-img-01.jpg",
+    "source": "https://www.komeya.co.jp/",
+    "credit": "ゆばらの宿 米屋 公式サイト",
+    "alt": "ゆばらの宿　米屋の写真",
+    "src": "assets/photos/place-11.jpg"
+  },
+  "桧の湯": {
+    "image": "https://www.komeya.co.jp/wp-content/uploads/2026/04/block-05-slider-01-1.jpg",
+    "source": "https://www.komeya.co.jp/onsen/",
+    "credit": "ゆばらの宿 米屋 公式サイト",
+    "alt": "桧の湯の写真",
+    "src": "assets/photos/place-12.jpg"
+  },
+  "椿の湯": {
+    "image": "https://www.komeya.co.jp/wp-content/uploads/2026/04/img-07.jpg",
+    "source": "https://www.komeya.co.jp/onsen/",
+    "credit": "ゆばらの宿 米屋 公式サイト",
+    "alt": "椿の湯の写真",
+    "src": "assets/photos/place-13.jpg"
+  },
+  "炭籠の湯": {
+    "image": "https://www.komeya.co.jp/wp-content/uploads/2026/04/block-01-slider-01.jpg",
+    "source": "https://www.komeya.co.jp/onsen/",
+    "credit": "ゆばらの宿 米屋 公式サイト",
+    "alt": "炭籠の湯の写真",
+    "src": "assets/photos/place-14.jpg"
+  },
+  "鉄窯の湯": {
+    "image": "https://www.komeya.co.jp/wp-content/uploads/2026/04/block-02-slider-01.jpg",
+    "source": "https://www.komeya.co.jp/onsen/",
+    "credit": "ゆばらの宿 米屋 公式サイト",
+    "alt": "鉄窯の湯の写真",
+    "src": "assets/photos/place-15.jpg"
+  },
+  "砂湯": {
+    "image": "https://www.maniwa.or.jp/upload/spot/8/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=8",
+    "credit": "真庭観光WEB",
+    "alt": "砂湯の写真",
+    "src": "assets/photos/place-16.jpg"
+  },
+  "手湯足湯": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3508/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3508",
+    "credit": "真庭観光WEB",
+    "alt": "手湯足湯の写真",
+    "src": "assets/photos/place-17.jpg"
+  },
+  "真庭市営　湯原温泉駐車場": {
+    "image": "https://www.arukikata.co.jp/wp-content/uploads/P8156050-thumb-730xauto-565261.jpg",
+    "source": "https://www.arukikata.co.jp/tokuhain/252680/",
+    "credit": "地球の歩き方 / mami",
+    "alt": "真庭市営　湯原温泉駐車場の写真",
+    "src": "assets/photos/place-18.jpg"
+  },
+  "河川駐車場": {
+    "image": "https://www.net626.co.jp/temp/p-1.jpg",
+    "source": "https://www.net626.co.jp/map1.htm",
+    "credit": "プチホテルゆばらリゾート 公式サイト",
+    "alt": "河川駐車場の写真",
+    "src": "assets/photos/place-19.jpg"
+  },
+  "手打ちそば　一心庵": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3156/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3156",
+    "credit": "真庭観光WEB",
+    "alt": "手打ちそば　一心庵の写真",
+    "src": "assets/photos/place-20.jpg"
+  },
+  "御前酒蔵元": {
+    "image": "https://www.maniwa.or.jp/upload/spot/3009/img_1.jpg",
+    "source": "https://www.maniwa.or.jp/web/?c=spot-2&pk=3009",
+    "credit": "真庭観光WEB",
+    "alt": "御前酒蔵元の写真",
+    "src": "assets/photos/place-21.jpg"
+  },
+  "gajumaru cheesecake": {
+    "image": "https://www.atpress.ne.jp/releases/575928/LL_img_575928_1.jpg?format=webp&ts=1775166039",
+    "source": "https://www.atpress.ne.jp/news/575928",
+    "credit": "gajumaru cheesecake / @Press",
+    "alt": "gajumaru cheesecakeの写真",
+    "src": "assets/photos/place-22.webp"
+  }
+}
