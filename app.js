@@ -161,7 +161,7 @@ function renderHome() {
  </section>
  <section class="category-section" aria-labelledby="category-title"><div class="section-heading"><div><p class="eyebrow">旅のもくじ</p><h2 id="category-title">さて、どこへ行こう。</h2></div><span class="section-counter">六つの楽しみ</span></div>
  <div class="category-grid">${categories.map((c,i)=>`<a class="category-card ${c.color}" href="#${c.id}"><div class="category-top"><span class="category-number">0${i+1} <span> / ${c.en}</span></span><span class="round-arrow" aria-hidden="true">↗</span></div>${photoMarkup(categoryPhoto(c),'category-photo')}<div class="category-bottom"><div><h3 class="${c.id==='katsuyama'?'long-title':''}">${c.id === 'katsuyama' ? '<span>勝山町並み</span><wbr><span>保存地区</span>' : c.name}</h3><p>${c.sub}</p></div><span class="place-count">${TRIP_DATA[c.id].length}<small>${c.id==='stay'?'項目':'件'}</small></span></div></a>`).join('')}</div>
- </section><aside class="hanzaki-note"><img src="assets/hanzaki.svg" alt="" width="90" height="66"><div><span>旅のおとも、はんざきです。</span><p>気になるカードをひらいて、次の寄り道を見つけよう。</p></div><span class="note-flower" aria-hidden="true">✳</span></aside>${scheduleMarkup()}${photoSources(categories.map(categoryPhoto))}`;
+ </section><aside class="hanzaki-note"><img src="assets/hanzaki.svg" alt="" width="90" height="66"><div><span>旅のおとも、はんざきです。</span><p>気になるカードをひらいて、次の寄り道を見つけよう。</p></div><span class="note-flower" aria-hidden="true">✳</span></aside>${scheduleMarkup()}${expenseMarkup()}${photoSources(categories.map(categoryPhoto))}`;
 }
 
 function dayBadge(day, value) {
